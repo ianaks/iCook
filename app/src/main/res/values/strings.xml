@@ -7,4 +7,7 @@
     <string name="new_rercipe">New recipe</string>
     <string name="bookmarks">Bookmarks</string>
     <string name="title_activity_search">SearchActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
